@@ -4,7 +4,7 @@ This repository contains an interactive tool for visualizing and understanding v
 
 ## Live Website
 The tool is hosted and accessible at:
-**[https://saulpascualdiaz.github.io/understanding_mediation/](https://saulpascualdiaz.github.io/understanding_vertexwise_connectome/)**
+**[https://saulpascualdiaz.github.io/understanding_vertexwise_connectome/](https://saulpascualdiaz.github.io/understanding_vertexwise_connectome/)**
 
 ---
 
